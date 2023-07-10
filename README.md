@@ -103,4 +103,6 @@ class _WeatherPageState extends State<WeatherPage> {
   }
 }
 ```
-!(Gambar1)[img/flutter.png]
+
+## Hasilnya
+![Gambar 1](img/flutter.PNG)
